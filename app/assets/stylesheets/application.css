@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+    color: orange;
+    text-align: center;
+    text-shadow: 2px 2px grey;
+}
+input {
+    background: orange;
+    color: black;
+    border: 2px grey solid;
+    margin: 5px;
+}
+input::placeholder {
+    color: black;
+}
